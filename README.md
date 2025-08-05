@@ -31,7 +31,7 @@ The following **required** functionality is completed:
 
 
 
-### App Idea
+### Proposed App Idea
 
 I’d like to build an app that helps people track and improve their daily mood and mental health. The app would let users log their emotions throughout the day with just a couple of taps, optionally write short notes about what happened, and then show trends over time. Features I’d like to implement include: a simple and visually pleasing mood logging interface, a calendar or chart view of mood history, and gentle suggestions (like reminders to take a break or go outside) based on patterns the app detects. This would combine elements of mindfulness, journaling, and habit tracking in a lightweight app.
 
